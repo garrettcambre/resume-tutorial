@@ -45,11 +45,11 @@ class App extends Component {
         category: 'Ruby on Rails',
         inspiration: 'tutorial'
       },
-      {
+       {
         id: uuid.v4(),
-        title: 'Meme Slot Machine',
+        title: 'This Project Portfolio',
         category: 'React.js',
-        inspiration: 'self inspired '
+        inspiration: 'tutorial '
       },
     ]});
   }
